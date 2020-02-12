@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="HiSend.Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="~/Site.Master.cs" Inherits="HiSend.Default" %>
 
 <!DOCTYPE html>
 
